@@ -14,9 +14,15 @@ body {
   box-sizing: border-box;
   overflow-x: hidden;
 }
+h1,h2,h3,h4 {
+  font-family: Poppins, sans-serif;
+}
+p {
+  font-family: Open sans,sans-serif;
+}
 nav {
   display: flex;
-  height: 60px;
+  height: 60fpx;
   padding: 20px 40px;
   justify-content: space-between;
   align-items: center;
