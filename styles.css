@@ -22,7 +22,7 @@ p {
 }
 nav {
   display: flex;
-  height: 60fpx;
+  height: 60px;
   padding: 20px 40px;
   justify-content: space-between;
   align-items: center;
@@ -141,7 +141,7 @@ footer {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  padding: 15px 60px;
+  padding: 15px 60px 50px 60px;
   color: white;
 }
 footer div.column {

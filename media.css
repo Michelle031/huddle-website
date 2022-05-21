@@ -1,10 +1,12 @@
 @media (max-width: 700px) {
   nav {
-    display: none;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
   }
   .numbers {
     flex-direction: column;
+  }
+  .mock img {
+     width: 100%;
   }
   .two article {
     flex-direction: column;
