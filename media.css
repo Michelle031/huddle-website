@@ -41,8 +41,8 @@
     order: 2;
     margin-top: 50px;
   }
-  .column,
-  .column2 {
+  footer div.column,
+  footer div.column2 {
     width: 100%;
   }
   .input {
@@ -50,7 +50,6 @@
     align-items: flex-start;
   }
   .footer {
-    margin-left: auto;
     margin-top: 15px;
   }
 }
